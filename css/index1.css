@@ -1,0 +1,6 @@
+    /* The Cascading Style sheet we will use to tweak the appearance of the HTML page  */
+    /* Set the entire backgroup to a color */
+    
+    body {
+        background-color: teal;
+    }

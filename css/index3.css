@@ -1,0 +1,23 @@
+    /* The Cascading Style sheet we will use to tweak the appearance of the HTML page ADJECTIVEs! */
+    /* Set the entire backgroup to a color with an element selector */
+    body {
+        background-color: teal;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+
+    /*Style all paragraphs assigned to the .normal_text class*/
+    .normal_text {
+        font-style: italic;
+        font-size: larger;
+        font-weight: bold;
+    }
+
+    #article_header {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: large;
+        font-weight: bold;
+        border: solid 2px red;
+        background-color: royalblue;
+        padding: 20px;
+    }
